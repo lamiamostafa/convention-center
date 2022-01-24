@@ -1,4 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 *{
+   
     font-family: 'Poppins', sans-serif;
+}
+.slider-button{
+    
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border:none;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.footer-coloumn {
+    width: 135px;
+    height: 40px;
+}
+.apptitle{
+    color: #D9DBE1;
+    font-size: 18px;
+
 }
